@@ -5,10 +5,10 @@ Welcome to the Csound-Cpp-Examples repository! This repository contains a collec
 Welcome to the Csound-Cpp-Examples repository! This repository contains a collection of examples and projects that combine the use of Csound with the C++ programming language. Csound is a programming language for sound synthesis and transformation, while C++ is a powerful and versatile programming language. Together, they offer a robust environment for creating advanced audio applications.
 
 ## 📂 Repository Contents
-•	Basic Examples: Simple codes to get started with Csound and C++.
-•	Advanced Projects: More complex projects demonstrating advanced use of Csound in C++ applications.
-•	Tutorials: Step-by-step guides to help you understand and use Csound features in C++.
-•	Documentation: Detailed documentation for each example and project, including comments and explanations.
+- •	Basic Examples: Simple codes to get started with Csound and C++.
+- •	Advanced Projects: More complex projects demonstrating advanced use of Csound in C++ applications.
+- •	Tutorials: Step-by-step guides to help you understand and use Csound features in C++.
+- •	Documentation: Detailed documentation for each example and project, including comments and explanations.
 
 ## 🛠️ Requirements
 •	Csound: Make sure you have Csound installed. You can download it from here.
