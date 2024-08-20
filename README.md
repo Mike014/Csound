@@ -1,5 +1,7 @@
 # Csound
 Welcome to the Csound-Cpp-Examples repository! This repository contains a collection of examples and projects that combine the use of Csound with the C++ programming language. Csound is a programming language for sound synthesis and transformation, while C++ is a powerful and versatile programming language. 
+- ![Csound](https://img.shields.io/badge/Csound-000000?style=for-the-badge&logo=csound&logoColor=white)
+- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## Csound-Cpp-Examples 🎶
 Welcome to the Csound-Cpp-Examples repository! This repository contains a collection of examples and projects that combine the use of Csound with the C++ programming language. Csound is a programming language for sound synthesis and transformation, while C++ is a powerful and versatile programming language. Together, they offer a robust environment for creating advanced audio applications.
